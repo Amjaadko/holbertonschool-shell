@@ -1,0 +1,25 @@
+total 88
+-rw-r--r-- 1 root root   12 Aug 24 08:48 *\\Best School\\*$\?\*\*\*\*\*:)
+drwxr-xr-x 2 root root 4096 Aug 24 08:51 .
+drwxr-xr-x 6 root root 4096 Aug 24 08:48 ..
+-rwxr-xr-x 1 root root   33 Aug 24 08:48 0-hello_world
+-rwxr-xr-x 1 root root   30 Aug 24 08:48 1-confused_smiley
+-rwxr-xr-x 1 root root   18 Aug 24 08:48 1-file_permission
+-rwxr-xr-x 1 root root   25 Aug 24 08:48 10-remove_me
+-rwxr-xr-x 1 root root   37 Aug 24 08:48 2-hello_you
+-rwxr-xr-x 1 root root   28 Aug 24 08:48 2-hellofile
+-rwxr-xr-x 1 root root   25 Aug 24 08:48 3-file_type
+-rwxr-xr-x 1 root root   39 Aug 24 08:48 3-twofiles
+-rwxr-xr-x 1 root root   30 Aug 24 08:48 4-lastlines
+-rwxr-xr-x 1 root root   31 Aug 24 08:48 4-read_me
+-rwxr-xr-x 1 root root   26 Aug 24 08:48 5-count_i
+-rwxr-xr-x 1 root root   30 Aug 24 08:48 5-firstlines
+-rwxr-xr-x 1 root root   26 Aug 24 08:48 6-multiple_i
+-rwxr-xr-x 1 root root   40 Aug 24 08:48 6-third_line
+-rwxr-xr-x 1 root root   87 Aug 24 08:48 7-file
+-rw-r--r-- 1 root root   36 Aug 24 08:51 8-cwd_state
+-rwxr-xr-x 1 root root   31 Aug 24 08:48 8-save_last_lines
+-rwxr-xr-x 1 root root   31 Aug 24 08:48 9-lets_move
+-rw-r--r-- 1 root root  801 Aug 24 08:48 iacta
+-rw-r--r-- 1 root root    0 Aug 24 08:51 ls_cwd_content
+-rw-r--r-- 1 root root    0 Aug 24 08:48 my_file
